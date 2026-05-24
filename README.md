@@ -1,0 +1,2 @@
+# StudentMangerSystem
+学生成绩管理系统，可以实现学生成绩增删改查，以及可视化查看个人成绩，技术栈为Springboot+vue前后端分离结构，存储数据库为MySQL
